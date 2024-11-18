@@ -1,0 +1,1 @@
+var json_pemakaman_13 = {"type":"FeatureCollection","name":"pemakaman_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Pemakaman Wilangan"},"geometry":{"type":"Point","coordinates":[109.333491172661169,-7.38996189575509]}}]}

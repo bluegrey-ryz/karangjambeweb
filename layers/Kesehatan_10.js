@@ -1,0 +1,1 @@
+var json_Kesehatan_10 = {"type":"FeatureCollection","name":"Kesehatan_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Puskesmas"},"geometry":{"type":"Point","coordinates":[109.330767404946826,-7.389087422962599]}}]}
